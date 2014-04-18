@@ -1,0 +1,6465 @@
+{
+   "4":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.201",
+      "longitude":"0.63015",
+      "idVille":"4",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Agen",
+         "attrs":{
+            "font-size":"7"
+         },    
+         "position":"right"
+
+,
+         "margin":"2"    
+      },
+      "txoffset":"-6",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"3"
+   },
+   "33":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.5614",
+      "longitude":"5.5248",
+      "idVille":"33",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Aix-en-Provence",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-6"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-6",
+      "pxoffset":"6",
+      "pyoffset":"10"
+   },
+   "60":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.5556",
+      "longitude":"4.74916",
+      "idVille":"60",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Mont\u00e9limar",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-41"    },
+
+      "txoffset":"16",
+      "tyoffset":"-10",
+      "pxoffset":"14",
+      "pyoffset":"-2"
+   },
+   "38":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"41.9185",
+      "longitude":"8.67106",
+      "idVille":"38",
+      "idRegion":"11",
+      "nameRegion":"Corse",
+      "text":{
+         "content":"Ajaccio",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-34"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"6",
+      "pyoffset":"0"
+   },
+   "50":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.933",
+      "longitude":"2.15485",
+      "idVille":"50",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Albi",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-13"    },
+
+      "txoffset":"1",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"5"
+   },
+   "40":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.4306",
+      "longitude":"0.083175",
+      "idVille":"40",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Alen\u00e7on",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"7"    },
+
+      "txoffset":"-16",
+      "tyoffset":"-12",
+      "pxoffset":"0",
+      "pyoffset":"-3"
+   },
+   "43":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.8991",
+      "longitude":"2.27528",
+      "idVille":"43",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Amiens",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-8"    },
+
+      "txoffset":"-23",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "47":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.4975",
+      "longitude":"-0.55314",
+      "idVille":"47",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Angers",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-4",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "30":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.6457",
+      "longitude":"0.14514",
+      "idVille":"30",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Angoul\u00eame",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "56":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.8972",
+      "longitude":"6.12516",
+      "idVille":"56",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Annecy",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-33"    },
+
+      "txoffset":"8",
+      "tyoffset":"-7",
+      "pxoffset":"5",
+      "pyoffset":"0"
+   },
+   "58":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"50.2838",
+      "longitude":"2.74686",
+      "idVille":"58",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Arras",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-14",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "52":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.6457",
+      "longitude":"0.573071",
+      "idVille":"52",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Auch",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-2"    },
+
+      "txoffset":"-10",
+      "tyoffset":"0",
+      "pxoffset":"-2",
+      "pyoffset":"6"
+   },
+   "65":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.9295",
+      "longitude":"2.43879",
+      "idVille":"65",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Aurillac",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "66":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.7961",
+      "longitude":"3.5693",
+      "idVille":"66",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Auxerre",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"1",
+      "tyoffset":"-4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "44":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.947",
+      "longitude":"4.82096",
+      "idVille":"44",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Avignon",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-7",
+      "pxoffset":"12",
+      "pyoffset":"0"
+   },
+   "67":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.7737",
+      "longitude":"5.16057",
+      "idVille":"67",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Bar-le-Duc",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"-5",
+      "tyoffset":"-18",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "68":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"42.7021",
+      "longitude":"9.45075",
+      "idVille":"68",
+      "idRegion":"11",
+      "nameRegion":"Corse",
+      "text":{
+         "content":"Bastia",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"0",
+      "pxoffset":"-1",
+      "pyoffset":"2"
+   },
+   "61":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.4292",
+      "longitude":"2.08421",
+      "idVille":"61",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Beauvais",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+,"margin":"5"    },
+
+      "txoffset":"-16",
+      "tyoffset":"-9",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "69":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.6455",
+      "longitude":"6.84104",
+      "idVille":"69",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Belfort",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"14",
+      "tyoffset":"-12",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "24":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.2711",
+      "longitude":"6.02824",
+      "idVille":"24",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Besan\u00e7on",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"11",
+      "tyoffset":"-14",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "70":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.5868",
+      "longitude":"1.33143",
+      "idVille":"70",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Blois",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "71":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.9073",
+      "longitude":"2.4431",
+      "idVille":"71",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Bobigny",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"0",
+      "tyoffset":"-5",
+      "pxoffset":"3",
+      "pyoffset":"0"
+   },
+   "0":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.835",
+      "longitude":"-0.587269",
+      "idVille":"0",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Bordeaux",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-28"    },
+
+      "txoffset":"-5",
+      "tyoffset":"2",
+      "pxoffset":"-6",
+      "pyoffset":"0"
+   },
+   "72":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.2033",
+      "longitude":"5.22139",
+      "idVille":"72",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Bourg-en-Bresse",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-17",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "9":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.0818",
+      "longitude":"2.40393",
+      "idVille":"9",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Bourges",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "10":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.3903",
+      "longitude":"-4.486076",
+      "idVille":"10",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Brest",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"13"    },
+
+      "txoffset":"1",
+      "tyoffset":"-8",
+      "pxoffset":"3",
+      "pyoffset":"-10"
+   },
+   "11":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.1846",
+      "longitude":"-0.3719",
+      "idVille":"11",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Caen",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-6"    },
+
+      "txoffset":"-17",
+      "tyoffset":"0",
+      "pxoffset":"5",
+      "pyoffset":"0"
+   },
+   "53":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.4467",
+      "longitude":"1.44076",
+      "idVille":"53",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Cahors",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "32":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.5376",
+      "longitude":"7.02835",
+      "idVille":"32",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Cannes",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"4",
+      "pxoffset":"11",
+      "pyoffset":"-3"
+   },
+   "73":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.2075",
+      "longitude":"2.34406",
+      "idVille":"73",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Carcassonne",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-2"    },
+
+      "txoffset":"-20",
+      "tyoffset":"-13",
+      "pxoffset":"0",
+      "pyoffset":"6"
+   },
+   "75":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.9688",
+      "longitude":"4.37069",
+      "idVille":"75",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Ch\u00e2lons-en-Champagne",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"3",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "76":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.5667",
+      "longitude":"5.92099",
+      "idVille":"76",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Chamb\u00e9ry",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-44"    },
+
+      "txoffset":"8",
+      "tyoffset":"-7",
+      "pxoffset":"7",
+      "pyoffset":"0"
+   },
+   "77":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.7689",
+      "longitude":"4.71241",
+      "idVille":"77",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Charleville-M\u00e9zi\u00e8res",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-27",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "78":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.4468",
+      "longitude":"1.50341",
+      "idVille":"78",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Chartres",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"-2",
+      "tyoffset":"2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "79":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.8027",
+      "longitude":"1.69028",
+      "idVille":"79",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Ch\u00e2teauroux",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "80":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.1113",
+      "longitude":"5.13991",
+      "idVille":"80",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Chaumont",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"2",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "21":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.7808",
+      "longitude":"3.11949",
+      "idVille":"21",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Clermont-Ferrand",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-8"    },
+
+      "txoffset":"4",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "81":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.0928",
+      "longitude":"7.37046",
+      "idVille":"81",
+      "idRegion":"20",
+      "nameRegion":"Alsace",
+      "text":{
+         "content":"Colmar",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"7",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "82":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7845",
+      "longitude":"2.4522",
+      "idVille":"82",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Cr\u00e9teil",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "83":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.1189",
+      "longitude":"6.25095",
+      "idVille":"83",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Digne-les-Bains",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"8",
+      "tyoffset":"-7",
+      "pxoffset":"0",
+      "pyoffset":"3"
+   },
+   "37":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.3238",
+      "longitude":"5.03861",
+      "idVille":"37",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Dijon",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "84":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.1757",
+      "longitude":"6.44971",
+      "idVille":"84",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"\u00c9pinal",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"6",
+      "tyoffset":"-9",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "85":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.018",
+      "longitude":"1.13818",
+      "idVille":"85",
+      "idRegion":"16",
+      "nameRegion":"Haute-Normandie",
+      "text":{
+         "content":"\u00c9vreux",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-14",
+      "tyoffset":"4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "57":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.6294",
+      "longitude":"2.44114",
+      "idVille":"57",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Evry",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-14",
+      "tyoffset":"1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "86":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"42.9505",
+      "longitude":"1.56925",
+      "idVille":"86",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Foix",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-16"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"-2",
+      "pyoffset":"8"
+   },
+   "55":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.5543",
+      "longitude":"6.07038",
+      "idVille":"55",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Gap",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"15",
+      "tyoffset":"-13",
+      "pxoffset":"0",
+      "pyoffset":"4"
+   },
+   "20":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.1971",
+      "longitude":"5.71048",
+      "idVille":"20",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Grenoble",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-8"    },
+
+      "txoffset":"10",
+      "tyoffset":"-10",
+      "pxoffset":"5",
+      "pyoffset":"0"
+   },
+   "87":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.1749",
+      "longitude":"1.87878",
+      "idVille":"87",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Gu\u00e9ret",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "12":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.1601",
+      "longitude":"-1.17747",
+      "idVille":"12",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"La Rochelle",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "88":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.6694",
+      "longitude":"-1.41872",
+      "idVille":"88",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"La Roche-sur-Yon",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "89":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.5477",
+      "longitude":"3.59402",
+      "idVille":"89",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Laon",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-9",
+      "tyoffset":"-11",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "90":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.0679",
+      "longitude":"-0.764641",
+      "idVille":"90",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Laval",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-7",
+      "tyoffset":"2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "45":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.0158",
+      "longitude":"0.160927",
+      "idVille":"45",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Le Mans",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "91":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.042",
+      "longitude":"3.88329",
+      "idVille":"91",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Le Puy-en-Velay",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"8",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "17":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"50.6291",
+      "longitude":"3.06038",
+      "idVille":"17",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Lille",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"1",
+      "tyoffset":"-17",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "29":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.8413",
+      "longitude":"1.247",
+      "idVille":"29",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Limoges",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"-3",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "92":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.6758",
+      "longitude":"5.5576",
+      "idVille":"92",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Lons-le-Saunier",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"13",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "18":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.7713",
+      "longitude":"4.82808",
+      "idVille":"18",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Lyon",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"2"    },
+
+      "txoffset":"4",
+      "tyoffset":"-8",
+      "pxoffset":"8",
+      "pyoffset":"2"
+   },
+   "93":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.3041",
+      "longitude":"4.83349",
+      "idVille":"93",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"M\u00e2con",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-7",
+      "tyoffset":"-20",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "34":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.2944",
+      "longitude":"5.35999",
+      "idVille":"34",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Marseille",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-10"    },
+
+      "txoffset":"8",
+      "tyoffset":"3",
+      "pxoffset":"12",
+      "pyoffset":"4"
+   },
+   "94":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.5415",
+      "longitude":"2.66029",
+      "idVille":"94",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Melun",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "95":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.5181",
+      "longitude":"3.49451",
+      "idVille":"95",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Mende",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "15":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.1023",
+      "longitude":"6.18289",
+      "idVille":"15",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Metz",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"5",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "96":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.031",
+      "longitude":"1.34692",
+      "idVille":"96",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Montauban",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"5"
+   },
+   "54":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.8933",
+      "longitude":"-0.49953",
+      "idVille":"54",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Mont-de-Marsan",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"7"    },
+
+      "txoffset":"-12",
+      "tyoffset":"-2",
+      "pxoffset":"-6",
+      "pyoffset":"0"
+   },
+   "25":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.6047",
+      "longitude":"3.90117",
+      "idVille":"25",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Montpellier",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"5"
+   },
+   "97":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.5682",
+      "longitude":"3.27293",
+      "idVille":"97",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Moulins",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"8",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "39":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.6896",
+      "longitude":"6.17372",
+      "idVille":"39",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Nancy",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"5",
+      "tyoffset":"-13",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "98":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.8972",
+      "longitude":"2.20328",
+      "idVille":"98",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Nanterre",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "5":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.222",
+      "longitude":"-1.55062",
+      "idVille":"5",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Nantes",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "28":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.1496",
+      "longitude":"3.03367",
+      "idVille":"28",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Narbonne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-10"    },
+
+      "txoffset":"0",
+      "tyoffset":"-2",
+      "pxoffset":"-3",
+      "pyoffset":"5"
+   },
+   "99":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.9872",
+      "longitude":"3.1616",
+      "idVille":"99",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Nevers",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "36":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.7142",
+      "longitude":"7.2469",
+      "idVille":"36",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Nice",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-30"    },
+
+      "txoffset":"15",
+      "tyoffset":"-6",
+      "pxoffset":"20",
+      "pyoffset":"-5"
+   },
+   "41":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.8626",
+      "longitude":"4.36035",
+      "idVille":"41",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"N\u00eemes",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"11",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"3"
+   },
+   "100":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.3239",
+      "longitude":"-0.457584",
+      "idVille":"100",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Niort",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-7",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "19":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.9141",
+      "longitude":"1.90991",
+      "idVille":"19",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Orl\u00e9ans",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "14":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.8569",
+      "longitude":"2.34121",
+      "idVille":"14",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Paris",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "2":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.3203",
+      "longitude":"-0.34378",
+      "idVille":"2",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Pau",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-12"    },
+
+      "txoffset":"-12",
+      "tyoffset":"-3",
+      "pxoffset":"-6",
+      "pyoffset":"0"
+   },
+   "101":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.1893",
+      "longitude":"0.715294",
+      "idVille":"101",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"P\u00e9rigueux",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "27":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"42.7202",
+      "longitude":"2.88764",
+      "idVille":"27",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Perpignan",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-1"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"2",
+      "pyoffset":"6"
+   },
+   "13":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"46.5832",
+      "longitude":"0.346423",
+      "idVille":"13",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Poitiers",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "74":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.0294",
+      "longitude":"2.04209",
+      "idVille":"74",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Cergy-Pontoise",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"6"    },
+
+      "txoffset":"0",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"-3"
+   },
+   "102":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.7405",
+      "longitude":"4.57677",
+      "idVille":"102",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Privas",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"2"    },
+
+      "txoffset":"3",
+      "tyoffset":"-14",
+      "pxoffset":"6",
+      "pyoffset":"2"
+   },
+   "103":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.9947",
+      "longitude":"-4.10795",
+      "idVille":"103",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Quimper",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-6",
+      "tyoffset":"3",
+      "pxoffset":"2",
+      "pyoffset":"-9"
+   },
+   "23":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.2443",
+      "longitude":"4.03462",
+      "idVille":"23",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Reims",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "6":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.112",
+      "longitude":"-1.686",
+      "idVille":"6",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Rennes",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-24",
+      "tyoffset":"1",
+      "pxoffset":"6",
+      "pyoffset":"-10"
+   },
+   "31":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.3468",
+      "longitude":"2.56979",
+      "idVille":"31",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Rodez",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"5",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "7":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.4465",
+      "longitude":"1.0976",
+      "idVille":"7",
+      "idRegion":"16",
+      "nameRegion":"Haute-Normandie",
+      "text":{
+         "content":"Rouen",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-9",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "104":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.5101",
+      "longitude":"-2.76591",
+      "idVille":"104",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Saint-Brieuc",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-2"    },
+
+      "txoffset":"-32",
+      "tyoffset":"3",
+      "pxoffset":"3",
+      "pyoffset":"-6"
+   },
+   "42":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.4509",
+      "longitude":"4.38889",
+      "idVille":"42",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Saint-Etienne",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-4"    },
+
+      "txoffset":"10",
+      "tyoffset":"-8",
+      "pxoffset":"5",
+      "pyoffset":"4"
+   },
+   "105":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"49.1156",
+      "longitude":"-1.09008",
+      "idVille":"105",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Saint-L\u00f4",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"4"    },
+
+      "txoffset":"-17",
+      "tyoffset":"-10",
+      "pxoffset":"6",
+      "pyoffset":"0"
+   },
+   "16":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.602",
+      "longitude":"7.78352",
+      "idVille":"16",
+      "idRegion":"20",
+      "nameRegion":"Alsace",
+      "text":{
+         "content":"Strasbourg",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"3",
+      "tyoffset":"-7",
+      "pxoffset":"-5",
+      "pyoffset":"0"
+   },
+   "3":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.2376",
+      "longitude":"0.0700051",
+      "idVille":"3",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Tarbes",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-1"    },
+
+      "txoffset":"-11",
+      "tyoffset":"-3",
+      "pxoffset":"-7",
+      "pyoffset":"5"
+   },
+   "35":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.1201",
+      "longitude":"5.93833",
+      "idVille":"35",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Toulon",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-40"    },
+
+      "txoffset":"14",
+      "tyoffset":"-5",
+      "pxoffset":"14",
+      "pyoffset":"0"
+   },
+   "26":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"43.6044",
+      "longitude":"1.4483",
+      "idVille":"26",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Toulouse",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"-2",
+      "pxoffset":"-2",
+      "pyoffset":"6"
+   },
+   "8":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.3878",
+      "longitude":"0.69951",
+      "idVille":"8",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Tours",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "22":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.2923",
+      "longitude":"4.07554",
+      "idVille":"22",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Troyes",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"4",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "295":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"45.2647",
+      "longitude":"1.76761",
+      "idVille":"295",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Tulle",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "51":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"44.9235",
+      "longitude":"4.91814",
+      "idVille":"51",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Valence",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"-38"    },
+
+      "txoffset":"12",
+      "tyoffset":"-6",
+      "pxoffset":"8",
+      "pyoffset":"2"
+   },
+   "106":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.6567",
+      "longitude":"-2.74647",
+      "idVille":"106",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Vannes",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"top"
+
+,"margin":"7"    },
+
+      "txoffset":"-5",
+      "tyoffset":"-8",
+      "pxoffset":"-1",
+      "pyoffset":"-3"
+   },
+   "48":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"48.8052",
+      "longitude":"2.12196",
+      "idVille":"48",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Versailles",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-25",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "107":{
+      "type":"circle",
+      "size":"5",
+      "latitude":"47.6235",
+      "longitude":"6.1559",
+      "idVille":"107",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Vesoul",
+         "attrs":{
+            "font-size":"7"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-9",
+      "tyoffset":"-18",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "155":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.7258",
+      "longitude":"5.6676",
+      "idVille":"155",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Belley",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-3"    },
+
+      "txoffset":"9",
+      "tyoffset":"-12",
+      "pxoffset":"5",
+      "pyoffset":"0"
+   },
+   "189":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.336",
+      "longitude":"6.06113",
+      "idVille":"189",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Gex",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"-11",
+      "pxoffset":"5",
+      "pyoffset":"-3"
+   },
+   "226":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.1784",
+      "longitude":"5.56156",
+      "idVille":"226",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Nantua",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"0",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"3"
+   },
+   "227":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.047",
+      "longitude":"3.39853",
+      "idVille":"227",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Ch\u00e2teau-Thierry",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "261":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.8628",
+      "longitude":"3.29748",
+      "idVille":"261",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Saint-Quentin",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "265":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.3344",
+      "longitude":"2.60836",
+      "idVille":"265",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Montlu\u00e7on",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "108":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.1158",
+      "longitude":"3.45541",
+      "idVille":"108",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Vichy",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"6",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "109":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.3865",
+      "longitude":"6.64893",
+      "idVille":"109",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Barcelonnette",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-4"    },
+
+      "txoffset":"17",
+      "tyoffset":"-13",
+      "pxoffset":"8",
+      "pyoffset":"0"
+   },
+   "110":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.846",
+      "longitude":"6.51293",
+      "idVille":"110",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Castellane",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-27"    },
+
+      "txoffset":"2",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "111":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.9705",
+      "longitude":"6.70789",
+      "idVille":"111",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Brian\u00e7on",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-8"    },
+
+      "txoffset":"15",
+      "tyoffset":"-9",
+      "pxoffset":"5",
+      "pyoffset":"4"
+   },
+   "112":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.5434",
+      "longitude":"4.29412",
+      "idVille":"112",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Largenti\u00e8re",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"8",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "113":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.0671",
+      "longitude":"4.78315",
+      "idVille":"113",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Tournon-sur-Rh\u00f4ne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-4"    },
+
+      "txoffset":"10",
+      "tyoffset":"-8",
+      "pxoffset":"4",
+      "pyoffset":"0"
+   },
+   "114":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.4903",
+      "longitude":"4.35727",
+      "idVille":"114",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Rethel",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "115":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.1169",
+      "longitude":"1.60688",
+      "idVille":"115",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Pamiers",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-6"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"-2",
+      "pyoffset":"10"
+   },
+   "116":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.2443",
+      "longitude":"4.71432",
+      "idVille":"116",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Bar-sur-Aube",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"4",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "117":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.4779",
+      "longitude":"3.51074",
+      "idVille":"117",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Nogent-sur-Seine",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"1",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "118":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.098",
+      "longitude":"3.12026",
+      "idVille":"118",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Millau",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-1"    },
+
+      "txoffset":"0",
+      "tyoffset":"-3",
+      "pxoffset":"-5",
+      "pyoffset":"5"
+   },
+   "119":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.3327",
+      "longitude":"2.03294",
+      "idVille":"119",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Villefranche-de-Rouergue",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-9"    },
+
+      "txoffset":"0",
+      "tyoffset":"-2",
+      "pxoffset":"-2",
+      "pyoffset":"5"
+   },
+   "120":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.491",
+      "longitude":"4.91641",
+      "idVille":"120",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Istres",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-11"    },
+
+      "txoffset":"10",
+      "tyoffset":"0",
+      "pxoffset":"3",
+      "pyoffset":"7"
+   },
+   "121":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.2802",
+      "longitude":"-0.71322",
+      "idVille":"121",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Bayeux",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-7",
+      "pxoffset":"5",
+      "pyoffset":"0"
+   },
+   "122":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.1374",
+      "longitude":"0.27213",
+      "idVille":"122",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Lisieux",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"3"    },
+
+      "txoffset":"-20",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "123":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.8295",
+      "longitude":"-0.8721",
+      "idVille":"123",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Vire",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-16"    },
+
+      "txoffset":"-4",
+      "tyoffset":"-8",
+      "pxoffset":"4",
+      "pyoffset":"0"
+   },
+   "124":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.2184",
+      "longitude":"2.33161",
+      "idVille":"124",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Mauriac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "125":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.0326",
+      "longitude":"3.10009",
+      "idVille":"125",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Saint-Flour",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "126":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.6975",
+      "longitude":"-0.32859",
+      "idVille":"126",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Cognac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-8",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "127":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.0141",
+      "longitude":"0.67182",
+      "idVille":"127",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Confolens",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "128":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.4451",
+      "longitude":"-0.435948",
+      "idVille":"128",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Jonzac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-10",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "129":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.945",
+      "longitude":"-0.975673",
+      "idVille":"129",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Rochefort",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-14",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "130":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.7474",
+      "longitude":"-0.637109",
+      "idVille":"130",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Saintes",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"0"    },
+
+      "txoffset":"-9",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "131":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.9463",
+      "longitude":"-0.529283",
+      "idVille":"131",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Saint-Jean-d'Angely",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"-7",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "132":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.7213",
+      "longitude":"2.50902",
+      "idVille":"132",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Saint-Amand-Montrond",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "133":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.223",
+      "longitude":"2.06598",
+      "idVille":"133",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Vierzon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-4",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "59":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.1487",
+      "longitude":"1.51958",
+      "idVille":"59",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Brive-la-Gaillarde",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "135":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.5463",
+      "longitude":"2.30848",
+      "idVille":"135",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Ussel",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "136":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"42.5668",
+      "longitude":"8.75711",
+      "idVille":"136",
+      "idRegion":"11",
+      "nameRegion":"Corse",
+      "text":{
+         "content":"Calvi",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"5",
+      "pxoffset":"1",
+      "pyoffset":"5"
+   },
+   "137":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"42.3058",
+      "longitude":"9.15091",
+      "idVille":"137",
+      "idRegion":"11",
+      "nameRegion":"Corse",
+      "text":{
+         "content":"Corte",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "138":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"41.591",
+      "longitude":"8.94661",
+      "idVille":"138",
+      "idRegion":"11",
+      "nameRegion":"Corse",
+      "text":{
+         "content":"Sartene",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-4"    },
+
+      "txoffset":"1",
+      "tyoffset":"1",
+      "pxoffset":"4",
+      "pyoffset":"-1"
+   },
+   "139":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.6562",
+      "longitude":"4.3353",
+      "idVille":"139",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Montbard",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"4",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "140":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.4402",
+      "longitude":"-2.03736",
+      "idVille":"140",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Dinan",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"9"    },
+
+      "txoffset":"-22",
+      "tyoffset":"0",
+      "pxoffset":"2",
+      "pyoffset":"-5"
+   },
+   "141":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.5826",
+      "longitude":"-3.15681",
+      "idVille":"141",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Guingamp",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"4"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-7",
+      "pxoffset":"3",
+      "pyoffset":"-8"
+   },
+   "142":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7157",
+      "longitude":"-3.45926",
+      "idVille":"142",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Lannion",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"13"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-6",
+      "pxoffset":"5",
+      "pyoffset":"-10"
+   },
+   "143":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.9575",
+      "longitude":"2.17222",
+      "idVille":"143",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Aubusson",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-4",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "144":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.8534",
+      "longitude":"0.483005",
+      "idVille":"144",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Bergerac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "145":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.5286",
+      "longitude":"0.665075",
+      "idVille":"145",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Nontron",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-3"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-2",
+      "pxoffset":"-2",
+      "pyoffset":"-2"
+   },
+   "146":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.8913",
+      "longitude":"1.21502",
+      "idVille":"146",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Sarlat-la-Caneda",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "147":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.527",
+      "longitude":"6.79242",
+      "idVille":"147",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Montbeliard",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "148":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.9068",
+      "longitude":"6.34556",
+      "idVille":"148",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Pontarlier",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-20",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "149":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.7555",
+      "longitude":"5.36879",
+      "idVille":"149",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Die",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "150":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.3604",
+      "longitude":"5.13929",
+      "idVille":"150",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Nyons",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-26"    },
+
+      "txoffset":"16",
+      "tyoffset":"-10",
+      "pxoffset":"9",
+      "pyoffset":"0"
+   },
+   "151":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.0887",
+      "longitude":"0.592979",
+      "idVille":"151",
+      "idRegion":"16",
+      "nameRegion":"Haute-Normandie",
+      "text":{
+         "content":"Bernay",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-14",
+      "tyoffset":"1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "152":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.2467",
+      "longitude":"1.41815",
+      "idVille":"152",
+      "idRegion":"16",
+      "nameRegion":"Haute-Normandie",
+      "text":{
+         "content":"Les Andelys",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-22",
+      "tyoffset":"1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "153":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.0704",
+      "longitude":"1.33216",
+      "idVille":"153",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Ch\u00e2teaudun",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-7",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "154":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7361",
+      "longitude":"1.36229",
+      "idVille":"154",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Dreux",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "156":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.1968",
+      "longitude":"-4.0911",
+      "idVille":"156",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Ch\u00e2teaulin",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"6"    },
+
+      "txoffset":"-9",
+      "tyoffset":"-1",
+      "pxoffset":"3",
+      "pyoffset":"-10"
+   },
+   "157":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.5771",
+      "longitude":"-3.82617",
+      "idVille":"157",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Morlaix",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"5"    },
+
+      "txoffset":"-22",
+      "tyoffset":"-8",
+      "pxoffset":"5",
+      "pyoffset":"-10"
+   },
+   "158":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.1248",
+      "longitude":"4.08894",
+      "idVille":"158",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Al\u00e8s",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"11",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"2"
+   },
+   "159":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.99",
+      "longitude":"3.60648",
+      "idVille":"159",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Le Vigan",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"8",
+      "tyoffset":"-5",
+      "pxoffset":"3",
+      "pyoffset":"5"
+   },
+   "160":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.109",
+      "longitude":"0.727965",
+      "idVille":"160",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Saint-Gaudens",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"2"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "161":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.9577",
+      "longitude":"0.372482",
+      "idVille":"161",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Condom",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-8"    },
+
+      "txoffset":"-12",
+      "tyoffset":"-2",
+      "pxoffset":"-5",
+      "pyoffset":"4"
+   },
+   "162":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.5152",
+      "longitude":"0.404332",
+      "idVille":"162",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Mirande",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-10",
+      "tyoffset":"0",
+      "pxoffset":"-1",
+      "pyoffset":"8"
+   },
+   "163":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.6523",
+      "longitude":"-1.1785",
+      "idVille":"163",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Arcachon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"-7",
+      "pyoffset":"2"
+   },
+   "164":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.1291",
+      "longitude":"-0.661439",
+      "idVille":"164",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Blaye",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-9"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"-4",
+      "pyoffset":"4"
+   },
+   "165":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.5567",
+      "longitude":"-0.249224",
+      "idVille":"165",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Langon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "166":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.3088",
+      "longitude":"-0.937057",
+      "idVille":"166",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Lesparre-M\u00e9doc",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-4"    },
+
+      "txoffset":"-7",
+      "tyoffset":"0",
+      "pxoffset":"-6",
+      "pyoffset":"0"
+   },
+   "167":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.3417",
+      "longitude":"3.23825",
+      "idVille":"167",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"B\u00e9ziers",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-2"    },
+
+      "txoffset":"6",
+      "tyoffset":"-6",
+      "pxoffset":"-2",
+      "pyoffset":"5"
+   },
+   "168":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.731",
+      "longitude":"3.32331",
+      "idVille":"168",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Lod\u00e8ve",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-10"    },
+
+      "txoffset":"4",
+      "tyoffset":"-4",
+      "pxoffset":"0",
+      "pyoffset":"5"
+   },
+   "169":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.3477",
+      "longitude":"-1.19576",
+      "idVille":"169",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Fougeres",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"7"    },
+
+      "txoffset":"-32",
+      "tyoffset":"1",
+      "pxoffset":"6",
+      "pyoffset":"-4"
+   },
+   "170":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.651",
+      "longitude":"-2.08593",
+      "idVille":"170",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Redon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"9"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-14",
+      "pxoffset":"2",
+      "pyoffset":"-6"
+   },
+   "171":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.6422",
+      "longitude":"-1.98595",
+      "idVille":"171",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Saint-Malo",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"8"    },
+
+      "txoffset":"-6",
+      "tyoffset":"0",
+      "pxoffset":"4",
+      "pyoffset":"-5"
+   },
+   "172":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.9499",
+      "longitude":"1.99095",
+      "idVille":"172",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Issoudun",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "173":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.5798",
+      "longitude":"1.98529",
+      "idVille":"173",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"La Ch\u00e2tre",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "174":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.6327",
+      "longitude":"1.06301",
+      "idVille":"174",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Le Blanc",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "175":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.1661",
+      "longitude":"0.23804",
+      "idVille":"175",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Chinon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "176":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.1292",
+      "longitude":"0.9993",
+      "idVille":"176",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Loches",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-4",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "177":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.5636",
+      "longitude":"5.44526",
+      "idVille":"177",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"La Tour-du-Pin",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-11",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "178":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.0893",
+      "longitude":"5.48784",
+      "idVille":"178",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Dole",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"11",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "179":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.3929",
+      "longitude":"5.86449",
+      "idVille":"179",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Saint-Claude",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"12",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "180":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.7027",
+      "longitude":"-1.06341",
+      "idVille":"180",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Dax",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-7"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-7",
+      "pxoffset":"-5",
+      "pyoffset":"0"
+   },
+   "181":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.3603",
+      "longitude":"1.74372",
+      "idVille":"181",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Romorantin-Lanthenay",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "182":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.7924",
+      "longitude":"1.0648",
+      "idVille":"182",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Vend\u00f4me",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "183":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.6072",
+      "longitude":"4.06213",
+      "idVille":"183",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Montbrison",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-12",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "184":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.0353",
+      "longitude":"4.07255",
+      "idVille":"184",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Roanne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"6",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "185":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.2921",
+      "longitude":"3.38288",
+      "idVille":"185",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Brioude",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"7",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "186":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.1436",
+      "longitude":"4.12254",
+      "idVille":"186",
+      "idRegion":"2",
+      "nameRegion":"Auvergne",
+      "text":{
+         "content":"Yssingeaux",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "187":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.3712",
+      "longitude":"-1.17887",
+      "idVille":"187",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Ancenis",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"0"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-6",
+      "pxoffset":"3",
+      "pyoffset":"-4"
+   },
+   "188":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.7181",
+      "longitude":"-1.37823",
+      "idVille":"188",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Ch\u00e2teaubriant",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-25",
+      "tyoffset":"1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "46":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.2787",
+      "longitude":"-2.2124",
+      "idVille":"46",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Saint-Nazaire",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-16",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "190":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.9984",
+      "longitude":"2.73306",
+      "idVille":"190",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Montargis",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"2",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "191":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.1723",
+      "longitude":"2.25149",
+      "idVille":"191",
+      "idRegion":"9",
+      "nameRegion":"Centre",
+      "text":{
+         "content":"Pithiviers",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "192":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.6085",
+      "longitude":"2.03122",
+      "idVille":"192",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Figeac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "193":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.7362",
+      "longitude":"1.38043",
+      "idVille":"193",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Gourdon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "194":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.5036",
+      "longitude":"0.165555",
+      "idVille":"194",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Marmande",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-4",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "195":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.1347",
+      "longitude":"0.33831",
+      "idVille":"195",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Nerac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-7"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-3",
+      "pxoffset":"-5",
+      "pyoffset":"2"
+   },
+   "196":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.4029",
+      "longitude":"0.704753",
+      "idVille":"196",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Villeneuve-sur-Lot",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "197":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.3246",
+      "longitude":"3.59427",
+      "idVille":"197",
+      "idRegion":"6",
+      "nameRegion":"Languedoc-Roussillon",
+      "text":{
+         "content":"Florac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "198":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.0626",
+      "longitude":"-0.880687",
+      "idVille":"198",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Cholet",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "199":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.2598",
+      "longitude":"-0.079319",
+      "idVille":"199",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Saumur",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-10",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "200":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.6848",
+      "longitude":"-0.870794",
+      "idVille":"200",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Segr\u00e9",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-10",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "201":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.6864",
+      "longitude":"-1.36192",
+      "idVille":"201",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Avranches",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-18",
+      "tyoffset":"0",
+      "pxoffset":"2",
+      "pyoffset":"-3"
+   },
+   "202":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.6405",
+      "longitude":"-1.6208",
+      "idVille":"202",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Cherbourg-Octeville",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-2"    },
+
+      "txoffset":"-11",
+      "tyoffset":"-7",
+      "pxoffset":"6",
+      "pyoffset":"-3"
+   },
+   "203":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.048",
+      "longitude":"-1.44517",
+      "idVille":"203",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Coutances",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-4"    },
+
+      "txoffset":"-6",
+      "tyoffset":"0",
+      "pxoffset":"2",
+      "pyoffset":"0"
+   },
+   "204":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.0398",
+      "longitude":"3.94123",
+      "idVille":"204",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Epernay",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"2"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "206":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.0933",
+      "longitude":"4.8975",
+      "idVille":"206",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Sainte-Menehould",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "207":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7258",
+      "longitude":"4.58587",
+      "idVille":"207",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Vitry-le-Fran\u00e7ois",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-32",
+      "tyoffset":"-11",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "208":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.863",
+      "longitude":"5.33411",
+      "idVille":"208",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Langres",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"4",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "209":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.6373",
+      "longitude":"4.9497",
+      "idVille":"209",
+      "idRegion":"4",
+      "nameRegion":"Champagne-Ardenne",
+      "text":{
+         "content":"Saint-Dizier",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"2",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "210":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.8298",
+      "longitude":"-0.708547",
+      "idVille":"210",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Ch\u00e2teau-Gontier",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "211":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.3041",
+      "longitude":"-0.618288",
+      "idVille":"211",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Mayenne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "212":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.5914",
+      "longitude":"6.49082",
+      "idVille":"212",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Luneville",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"4",
+      "tyoffset":"-4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "213":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.6835",
+      "longitude":"5.8951",
+      "idVille":"213",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Toul",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"3",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "214":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7628",
+      "longitude":"5.59066",
+      "idVille":"214",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Commercy",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-7",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "215":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.1648",
+      "longitude":"5.38322",
+      "idVille":"215",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Verdun",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "216":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.7455",
+      "longitude":"-3.37891",
+      "idVille":"216",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Lorient",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"1"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-5",
+      "pxoffset":"3",
+      "pyoffset":"-5"
+   },
+   "217":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.0649",
+      "longitude":"-2.96613",
+      "idVille":"217",
+      "idRegion":"13",
+      "nameRegion":"Bretagne",
+      "text":{
+         "content":"Pontivy",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-16",
+      "tyoffset":"0",
+      "pxoffset":"3",
+      "pyoffset":"-8"
+   },
+   "218":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.1856",
+      "longitude":"6.89519",
+      "idVille":"218",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Forbach",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"6",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "219":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7325",
+      "longitude":"7.05201",
+      "idVille":"219",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Sarrebourg",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"8",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "220":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.065",
+      "longitude":"3.934444",
+      "idVille":"220",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Ch\u00e2teau-Chinon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-11",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "221":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.4599",
+      "longitude":"3.52075",
+      "idVille":"221",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Clamecy",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"2",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "222":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.4098",
+      "longitude":"2.92426",
+      "idVille":"222",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Cosne-Cours-sur-Loire",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"3",
+      "pyoffset":"0"
+   },
+   "223":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.1219",
+      "longitude":"3.93166",
+      "idVille":"223",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Avesnes-sur-Helpe",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-20",
+      "tyoffset":"-9",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "224":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.1754",
+      "longitude":"3.23437",
+      "idVille":"224",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Cambrai",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"6",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "225":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.3799",
+      "longitude":"3.09926",
+      "idVille":"225",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Douai",
+         "attrs":{
+            "font-size":"5"
+         },    
+         "position":"top",
+         "margin":"2"    
+      },
+
+      "txoffset":"7",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "63":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"51.0417",
+      "longitude":"2.34788",
+      "idVille":"63",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Dunkerque",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "62":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.3378",
+      "longitude":"3.52091",
+      "idVille":"62",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Valenciennes",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-2",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "228":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.3787",
+      "longitude":"2.4165",
+      "idVille":"228",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Clermont",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-4"    },
+
+      "txoffset":"-21",
+      "tyoffset":"1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "229":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.4176",
+      "longitude":"2.82513",
+      "idVille":"229",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Compi\u00e8gne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"4"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-9",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "230":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.2064",
+      "longitude":"2.5857",
+      "idVille":"230",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Senlis",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "231":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7463",
+      "longitude":"-0.020719",
+      "idVille":"231",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Argentan",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"1"    },
+
+      "txoffset":"-30",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "232":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.5207",
+      "longitude":"0.545175",
+      "idVille":"232",
+      "idRegion":"7",
+      "nameRegion":"Basse-Normandie",
+      "text":{
+         "content":"Mortagne-au-Perche",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"3"    },
+
+      "txoffset":"-13",
+      "tyoffset":"3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "233":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.5305",
+      "longitude":"2.63787",
+      "idVille":"233",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"B\u00e9thune",
+         "attrs":{
+            "font-size":"5"
+         },    
+         "position":"top",
+         "margin":"2"    
+      },
+
+      "txoffset":"-8",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "234":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.7286",
+      "longitude":"1.60836",
+      "idVille":"234",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Boulogne-sur-Mer",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"-9",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "235":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.9527",
+      "longitude":"1.86869",
+      "idVille":"235",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Calais",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"1",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "236":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.4364",
+      "longitude":"2.81861",
+      "idVille":"236",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Lens",
+         "attrs":{
+            "font-size":"5"
+         },    
+         "position":"left",
+         "margin":"0"    
+      },
+
+      "txoffset":"-13",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "237":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.4665",
+      "longitude":"1.76504",
+      "idVille":"237",
+      "idRegion":"19",
+      "nameRegion":"Nord-Pas-de-Calais",
+      "text":{
+         "content":"Montreuil",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-3",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "238":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.5032",
+      "longitude":"-1.47248",
+      "idVille":"238",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Bayonne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-3"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-8",
+      "pxoffset":"-10",
+      "pyoffset":"2"
+   },
+   "239":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.1928",
+      "longitude":"-0.605809",
+      "idVille":"239",
+      "idRegion":"14",
+      "nameRegion":"Aquitaine",
+      "text":{
+         "content":"Oloron-Sainte-Marie",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-12",
+      "tyoffset":"-3",
+      "pxoffset":"-6",
+      "pyoffset":"0"
+   },
+   "240":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.0067",
+      "longitude":"-0.100983",
+      "idVille":"240",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Argel\u00e8s-Gazost",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-12"    },
+
+      "txoffset":"-12",
+      "tyoffset":"-3",
+      "pxoffset":"-6",
+      "pyoffset":"7"
+   },
+   "241":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.065",
+      "longitude":"0.149698",
+      "idVille":"241",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Bagn\u00e8res-de-Bigorre",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-3"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-4",
+      "pxoffset":"-3",
+      "pyoffset":"6"
+   },
+   "242":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7417",
+      "longitude":"7.36204",
+      "idVille":"242",
+      "idRegion":"20",
+      "nameRegion":"Alsace",
+      "text":{
+         "content":"Saverne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"1"    },
+
+      "txoffset":"8",
+      "tyoffset":"-12",
+      "pxoffset":"-2",
+      "pyoffset":"-5"
+   },
+   "243":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.7413",
+      "longitude":"7.34569",
+      "idVille":"243",
+      "idRegion":"20",
+      "nameRegion":"Alsace",
+      "text":{
+         "content":"Mulhouse",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"7",
+      "tyoffset":"-12",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "244":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.1928",
+      "longitude":"7.32472",
+      "idVille":"244",
+      "idRegion":"20",
+      "nameRegion":"Alsace",
+      "text":{
+         "content":"Ribeauville",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"7",
+      "tyoffset":"-12",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "245":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.8122",
+      "longitude":"7.09943",
+      "idVille":"245",
+      "idRegion":"20",
+      "nameRegion":"Alsace",
+      "text":{
+         "content":"Thann",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-4",
+      "tyoffset":"-11",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "246":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.6834",
+      "longitude":"6.49653",
+      "idVille":"246",
+      "idRegion":"15",
+      "nameRegion":"Franche-Comt\u00e9",
+      "text":{
+         "content":"Lure",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"9",
+      "tyoffset":"-20",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "247":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.9498",
+      "longitude":"4.29942",
+      "idVille":"247",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Autun",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"5",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "248":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.7842",
+      "longitude":"4.85295",
+      "idVille":"248",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Ch\u00e2lon-sur-Sa\u00f4ne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "249":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.434",
+      "longitude":"4.27487",
+      "idVille":"249",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Charolles",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-11",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "250":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.629",
+      "longitude":"5.22551",
+      "idVille":"250",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Louhans",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "251":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.6977",
+      "longitude":"-0.0749811",
+      "idVille":"251",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"La Fl\u00e8che",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-9",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "252":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.3486",
+      "longitude":"0.367811",
+      "idVille":"252",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Mamers",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-20",
+      "tyoffset":"5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "253":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.6777",
+      "longitude":"6.3918",
+      "idVille":"253",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Albertville",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-29"    },
+
+      "txoffset":"10",
+      "tyoffset":"-9",
+      "pxoffset":"5",
+      "pyoffset":"0"
+   },
+   "254":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.2767",
+      "longitude":"6.34518",
+      "idVille":"254",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Saint-Jean-de-Maurienne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"16",
+      "tyoffset":"-8",
+      "pxoffset":"8",
+      "pyoffset":"0"
+   },
+   "255":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.0776",
+      "longitude":"6.40807",
+      "idVille":"255",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Bonneville",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-20"    },
+
+      "txoffset":"8",
+      "tyoffset":"-5",
+      "pxoffset":"4",
+      "pyoffset":"4"
+   },
+   "256":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.1438",
+      "longitude":"6.08049",
+      "idVille":"256",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Saint-Julien-en-Genevois",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"-61"    },
+
+      "txoffset":"6",
+      "tyoffset":"-10",
+      "pxoffset":"3",
+      "pyoffset":"2"
+   },
+   "257":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.3732",
+      "longitude":"6.47829",
+      "idVille":"257",
+      "idRegion":"0",
+      "nameRegion":"Rh\u00f4ne-Alpes",
+      "text":{
+         "content":"Thonon-les-Bains",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"5",
+      "tyoffset":"-8",
+      "pxoffset":"6",
+      "pyoffset":"-3"
+   },
+   "258":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.9264",
+      "longitude":"1.09369",
+      "idVille":"258",
+      "idRegion":"16",
+      "nameRegion":"Haute-Normandie",
+      "text":{
+         "content":"Dieppe",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-4",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "259":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.477",
+      "longitude":"0.163948",
+      "idVille":"259",
+      "idRegion":"16",
+      "nameRegion":"Haute-Normandie",
+      "text":{
+         "content":"Le Havre",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-6",
+      "tyoffset":"-6",
+      "pxoffset":"5",
+      "pyoffset":"0"
+   },
+   "260":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.3881",
+      "longitude":"2.66131",
+      "idVille":"260",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Fontainebleau",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "49":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.9577",
+      "longitude":"2.88183",
+      "idVille":"49",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Meaux",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"5",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "262":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.5592",
+      "longitude":"3.30243",
+      "idVille":"262",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Provins",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-4",
+      "tyoffset":"-7",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "263":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.8546",
+      "longitude":"2.65444",
+      "idVille":"263",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Torcy",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"left"
+
+,"margin":"-17"    },
+
+      "txoffset":"-1",
+      "tyoffset":"0",
+      "pxoffset":"4",
+      "pyoffset":"0"
+   },
+   "264":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.9904",
+      "longitude":"1.71936",
+      "idVille":"264",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Mantes-la-Jolie",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "64":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.643",
+      "longitude":"1.8258",
+      "idVille":"64",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Rambouillet",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "266":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.8427",
+      "longitude":"-0.491137",
+      "idVille":"266",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Bressuire",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-10",
+      "tyoffset":"-2",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "267":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.6454",
+      "longitude":"-0.248225",
+      "idVille":"267",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Parthenay",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-14",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "268":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"50.1174",
+      "longitude":"1.83239",
+      "idVille":"268",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Abbeville",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-15",
+      "tyoffset":"-4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "269":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.6461",
+      "longitude":"2.56753",
+      "idVille":"269",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"Montdidier",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-14",
+      "tyoffset":"-11",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "270":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"49.9293",
+      "longitude":"2.935",
+      "idVille":"270",
+      "idRegion":"1",
+      "nameRegion":"Picardie",
+      "text":{
+         "content":"P\u00e9ronne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-7",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "271":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.6053",
+      "longitude":"2.24101",
+      "idVille":"271",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Castres",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"2",
+      "tyoffset":"-2",
+      "pxoffset":"2",
+      "pyoffset":"5"
+   },
+   "272":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.042",
+      "longitude":"1.10534",
+      "idVille":"272",
+      "idRegion":"5",
+      "nameRegion":"Midi-Pyr\u00e9n\u00e9es",
+      "text":{
+         "content":"Castelsarrasin",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-20",
+      "tyoffset":"-12",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "273":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.4063",
+      "longitude":"6.06175",
+      "idVille":"273",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Brignoles",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-3",
+      "pxoffset":"11",
+      "pyoffset":"6"
+   },
+   "274":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.5411",
+      "longitude":"6.46473",
+      "idVille":"274",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Draguignan",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-2"    },
+
+      "txoffset":"4",
+      "tyoffset":"-6",
+      "pxoffset":"15",
+      "pyoffset":"3"
+   },
+   "275":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"43.8765",
+      "longitude":"5.39385",
+      "idVille":"275",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Apt",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"12",
+      "tyoffset":"-3",
+      "pxoffset":"8",
+      "pyoffset":"5"
+   },
+   "276":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"44.0503",
+      "longitude":"5.07028",
+      "idVille":"276",
+      "idRegion":"3",
+      "nameRegion":"PACA",
+      "text":{
+         "content":"Carpentras",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"3"    },
+
+      "txoffset":"20",
+      "tyoffset":"-6",
+      "pxoffset":"12",
+      "pyoffset":"0"
+   },
+   "277":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.466",
+      "longitude":"-0.806065",
+      "idVille":"277",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Fontenay-le-Comte",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-13",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "278":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.4974",
+      "longitude":"-1.79248",
+      "idVille":"278",
+      "idRegion":"17",
+      "nameRegion":"Pays-de-la-Loire",
+      "text":{
+         "content":"Les Sables d'Olonne",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-3",
+      "tyoffset":"-8",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "279":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.8217",
+      "longitude":"0.544509",
+      "idVille":"279",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Ch\u00e2tellerault",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "280":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.426",
+      "longitude":"0.866748",
+      "idVille":"280",
+      "idRegion":"8",
+      "nameRegion":"Poitou-Charentes",
+      "text":{
+         "content":"Montmorillon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"top"
+
+,"margin":"-5"    },
+
+      "txoffset":"-4",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "281":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"46.1219",
+      "longitude":"1.04933",
+      "idVille":"281",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Bellac",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-5",
+      "tyoffset":"-3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "282":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"45.8286",
+      "longitude":"0.8278",
+      "idVille":"282",
+      "idRegion":"10",
+      "nameRegion":"Limousin",
+      "text":{
+         "content":"Rochechouart",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-4",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "283":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.3585",
+      "longitude":"5.69254",
+      "idVille":"283",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Neufch\u00e2teau",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"4",
+      "tyoffset":"-6",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "284":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.2878",
+      "longitude":"6.9497",
+      "idVille":"284",
+      "idRegion":"18",
+      "nameRegion":"Lorraine",
+      "text":{
+         "content":"Saint-Di\u00e9-des-Vosges",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"10",
+      "tyoffset":"-10",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "285":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"47.4898",
+      "longitude":"3.90792",
+      "idVille":"285",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Avallon",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-8",
+      "tyoffset":"-12",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "286":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.1989",
+      "longitude":"3.28268",
+      "idVille":"286",
+      "idRegion":"12",
+      "nameRegion":"Bourgogne",
+      "text":{
+         "content":"Sens",
+         "attrs":{
+            "font-size":"5"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-1",
+      "tyoffset":"-1",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "287":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.4348",
+      "longitude":"2.16208",
+      "idVille":"287",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Etampes",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"left"
+
+,"margin":"1"    },
+
+      "txoffset":"-11",
+      "tyoffset":"-4",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "288":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"48.7155",
+      "longitude":"2.22917",
+      "idVille":"288",
+      "idRegion":"21",
+      "nameRegion":"Ile-De-France",
+      "text":{
+         "content":"Palaiseau",
+         "attrs":{
+            "font-size":"4"
+         }
+      ,    "position":"right"
+
+,"margin":"2"    },
+
+      "txoffset":"-13",
+      "tyoffset":"3",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "289":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"14.7388",
+      "longitude":"-60.9629",
+      "idVille":"289",
+      "idRegion":"26",
+      "nameRegion":"Martinique",
+      "text":{
+         "content":"Trinit\u00e9",
+         "attrs":{
+            "font-size":"5"
+         },
+         "position":"left",
+         "margin":"-27"    
+      },
+      "txoffset":"0",
+      "tyoffset":"15",
+      "pxoffset":"10",
+      "pyoffset":"0"
+   },
+   "290":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"16.2409",
+      "longitude":"-61.5353",
+      "idVille":"290",
+      "idRegion":"23",
+      "nameRegion":"Guadeloupe",
+      "text":{
+         "content":"Pointe-a-Pitre",
+         "attrs":{
+            "font-size":"5"
+         },   
+         "margin":"2"    
+      },
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "291":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"5.28697",
+      "longitude":"-53.7897",
+      "idVille":"291",
+      "idRegion":"24",
+      "nameRegion":"Guyane",
+      "text":{
+         "content":"Saint-Laurent-du-Maroni",
+         "attrs":{
+            "font-size":"5"
+         },
+         "margin":"2",  
+         "position":"right"
+      },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "292":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"-21.0033",
+      "longitude":"55.2833",
+      "idVille":"292",
+      "idRegion":"25",
+      "nameRegion":"R\u00e9union",
+      "text":{
+         "content":"Saint-Paul",
+         "attrs":{
+            "font-size":"5"
+         },
+         "margin":"2",    
+         "position":"right"
+      },
+
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "293":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"14.744",
+      "longitude":"-61.1738",
+      "idVille":"293",
+      "idRegion":"26",
+      "nameRegion":"Martinique",
+      "text":{
+         "content":"Saint-Pierre",
+         "attrs":{
+            "font-size":"5"
+         },
+         "position":"top",
+         "margin":"5"   
+      },
+
+      "txoffset":"-10",
+      "tyoffset":"5",
+      "pxoffset":"0",
+      "pyoffset":"0"
+   },
+   "294":{
+      "type":"circle",
+      "size":"3",
+      "latitude":"-21.332900",
+      "longitude":"55.471846",
+      "idVille":"294",
+      "idRegion":"25",
+      "nameRegion":"R\u00e9union",
+      "text":{
+         "content":"Saint-Pierre",
+         "attrs":{
+            "font-size":"5"
+         },
+         "position":"right",
+         "margin":"2"
+      },
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"13",
+      "pyoffset":"6"
+   },
+   "296":{
+      "type":"circle",
+      "size":"0",
+      "latitude":"-21.332900",
+      "longitude":"-55.471846",
+      "idVille":"296",
+      "idRegion":"27",
+      "nameRegion":"Mayotte",
+      "text":{
+         "content":"",
+         "attrs":{
+            "font-size":"5"
+         },
+         "position":"right",
+         "margin":"2"
+      },
+      "txoffset":"0",
+      "tyoffset":"0",
+      "pxoffset":"13",
+      "pyoffset":"6"
+   }
+}
